@@ -40,3 +40,9 @@ jspm_packages
 
 # Webstorm directories
 .idea
+
+#static files
+public/lib/
+
+#static css files
+modules/core/client/css/
